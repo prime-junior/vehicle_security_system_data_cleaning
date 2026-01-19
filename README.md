@@ -68,8 +68,7 @@ security_system_data_cleaning/
 - Each notebook is tailored for a specific manufacturer due to differences in security systems
 
 ## Author
-Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)  
-E-mail: weverson.b@mintt.com 
+Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
 
 ## License
 MIT
